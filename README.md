@@ -7,7 +7,7 @@
 - [Local CDX Estate policy reference](docs/governance/CDX-ESTATE-POLICY.md) — explanatory local applicability, not a substitute for [Conductellence's canonical policy](https://github.com/Hybrismannen/Conductellence-)
 - [Local CDX anchor](.cdx/anchor.json) and [security integration files](.security/) — source/configuration presence, **not** proof of live enforcement
 - [GitHub Actions integration check](.github/workflows/conductellence-binding-audit.yml) — inspect results for the exact commit before making a verification claim
-- [Repository Issues](../../Hy/issues) — questions and source-specific work, if available
+- [Repository Issues](https://github.com/Hybrismannen/Hy/issues) — questions and source-specific work, if available
 
 ## Intended role and operating status
 
